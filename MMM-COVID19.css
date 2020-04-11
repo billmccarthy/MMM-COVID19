@@ -14,7 +14,7 @@
   text-align: right;
 }
 
-.covid td.recovered {
+/* .covid td.recovered {
   color: green;
 }
 
@@ -28,7 +28,7 @@
 
 .covid td.active {
   color: orange;
-}
+} */
 .covid tr.world {
   border-bottom: 3px double grey;
 }
